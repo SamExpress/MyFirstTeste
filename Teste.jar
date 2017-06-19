@@ -1,3 +1,9 @@
-public{
-Teste = teste
+public string Teste{
+
+  string teste = teste
+
+}
+
+public int Teste(){
+
 }
